@@ -1,4 +1,4 @@
-# Chloe-Ting
+# Picka-Case
 
 ## Project setup
 ```
